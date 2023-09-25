@@ -1,0 +1,1 @@
+To increase the accuracy we use biase and varience. Review the topic from Andrew NG course of Advance ML Week 3 
